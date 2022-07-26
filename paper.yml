@@ -27,7 +27,7 @@ timings:
 settings:
   send-full-pos-for-hard-colliding-entities: true
   lag-compensate-block-breaking: true
-  console-has-all-permissions: false
+  console-has-all-permissions: true
   max-joins-per-tick: 3
   track-plugin-scoreboards: false
   fix-entity-position-desync: true
